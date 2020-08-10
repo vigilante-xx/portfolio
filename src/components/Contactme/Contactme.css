@@ -1,0 +1,13 @@
+.contact-me-container{
+	padding:3%;
+  background: rgb(13, 79, 136);
+}
+
+.fa-user,.fa-at,.fa-phone {
+  color:black;
+}
+
+.submit-button{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
